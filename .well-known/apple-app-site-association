@@ -3,8 +3,8 @@
        "apps": [],
         "details": [
            {
-               "appID":"DC367NBJJ2.org.pg.handle.url.55555",
-               "paths":[ "*" ]
+               "appID":"DC367NBJJ2.org.pg.handle.url",
+               "paths":[ "/Web/*", "/Home/*", "/native/*" ]
            }
          ]
     }
